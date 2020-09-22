@@ -130,9 +130,12 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <html>
-<iframe height="100vh" width="100vw" src="https://docs.google.com/spreadsheets/d/1Zs9NIHHCCJ7maDuDZlo9VjMWu10JKbhRFz7xwS9ZmXs/edit?usp=sharing&embedded=true&rm=demo&widget=false&headers=false&chrome=false"></iframe>
-
+<!DOCTYPE html>
+<html>
+<body>
+<iframe width="100%" height= "1200"
+src="https://docs.google.com/spreadsheets/d/1Zs9NIHHCCJ7maDuDZlo9VjMWu10JKbhRFz7xwS9ZmXs/edit?usp=sharing&widget=false&chrome=false&embedded=true&rm=minimal"></iframe>
+</body>
 </html>
   )
 }
