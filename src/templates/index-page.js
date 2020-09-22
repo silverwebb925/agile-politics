@@ -132,7 +132,7 @@ const IndexPage = ({ data }) => {
   return (
 <html>
 <body>
-<iframe width="100%" height= "1000" src="https://docs.google.com/spreadsheets/d/1Zs9NIHHCCJ7maDuDZlo9VjMWu10JKbhRFz7xwS9ZmXs/pubhtml?gid=0&range=a1%3Am55&single=false&widget=true&headers=false"></iframe></body>
+<iframe width="100%" height= "1000" src="https://docs.google.com/spreadsheets/d/1Zs9NIHHCCJ7maDuDZlo9VjMWu10JKbhRFz7xwS9ZmXs/edit?gid=0&range=a1%3Am55&single=false&widget=true&headers=false"></iframe></body>
 </html>
   )
 }
