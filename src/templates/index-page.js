@@ -131,7 +131,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQBsiQBvcd4U3UvfyOE2NHM6LSPA0VOychzHMamrcTw1FoVTp12KzZuU575Jo4oLWw7RVr2R5h9HVm/pubhtml?widget=true&amp;headers=false" width="95%"></iframe>
+<iframe height="100%" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQBsiQBvcd4U3UvfyOE2NHM6LSPA0VOychzHMamrcTw1FoVTp12KzZuU575Jo4oLWw7RVr2R5h9HVm/edit?usp=sharing&embedded=true&rm=demo"></iframe>
     </Layout>
   )
 }
