@@ -131,7 +131,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-<iframe height="100%" width="100%" src="https://docs.google.com/spreadsheets/d/1Zs9NIHHCCJ7maDuDZlo9VjMWu10JKbhRFz7xwS9ZmXs/edit?usp=sharing&embedded=true&rm=demo"></iframe>
+<iframe height="100%" width="100%" src="https://docs.google.com/spreadsheets/d/1Zs9NIHHCCJ7maDuDZlo9VjMWu10JKbhRFz7xwS9ZmXs/edit?usp=sharing&embedded=true&rm=demo&widget=false&headers=false&chrome=false"></iframe>
 
 </Layout>
   )
