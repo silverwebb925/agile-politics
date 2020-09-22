@@ -131,15 +131,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
-      />
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQBsiQBvcd4U3UvfyOE2NHM6LSPA0VOychzHMamrcTw1FoVTp12KzZuU575Jo4oLWw7RVr2R5h9HVm/pubhtml?widget=true&amp;headers=false"></iframe>
     </Layout>
   )
 }
